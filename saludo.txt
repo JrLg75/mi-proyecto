@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bienvenidos al sistema de ventas 2026
+=======
+Bienvenidos al sistema de ventas modificado desde main
+>>>>>>> de521424a2ef07a86b3ff12566f5097aad0cbc1d
